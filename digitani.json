@@ -1,4 +1,5 @@
 {
     "force_update": false,
-    "is_tampil": true
+    "is_tampil": true,
+    "is_tampil_ios": false
 }
