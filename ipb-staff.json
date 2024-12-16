@@ -1,0 +1,15 @@
+{
+    "force_update": false,
+    "store_version": {
+        "android": "3.0.7",
+        "ios": "3.0.7"
+    },
+    "store_link": {
+        "android": "https://play.google.com/store/apps/details?id=id.ac.ipb.mobile.staff",
+        "ios": "https://apps.apple.com/id/app/ipb-tendik/id1490087646"
+    },
+    "update_notes": {
+        "id": null,
+        "en": null
+    }
+}
