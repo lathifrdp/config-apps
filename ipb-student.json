@@ -1,0 +1,15 @@
+{
+    "force_update": false,
+    "store_version": {
+        "android": "3.1.9",
+        "ios": "3.1.9"
+    },
+    "store_link": {
+        "android": "https://play.google.com/store/apps/details?id=id.ac.ipb.mobile.student",
+        "ios": "https://apps.apple.com/id/app/ipb-mobile-for-student/id1375342362"
+    },
+    "update_notes": {
+        "id": null,
+        "en": null
+    }
+}
