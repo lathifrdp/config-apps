@@ -1,5 +1,5 @@
 {
-    "force_update": false,
+    "force_update": true,
     "store_version": {
         "android": "3.1.9",
         "ios": "3.1.9"
